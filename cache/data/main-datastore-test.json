@@ -1,0 +1,1172 @@
+[
+  {
+    "id": "20250110123",
+    "date": "2025-01-10T06:00:00.000Z",
+    "amount": -35.27,
+    "memo": "Grocery Run - Sunnyside Market",
+    "type": "DEBIT",
+    "category": "groceries",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "20250115456",
+    "date": "2025-01-15T06:00:00.000Z",
+    "amount": -48.99,
+    "memo": "Dinner - The Corner Bistro",
+    "type": "DEBIT",
+    "category": "dining",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "20250205789",
+    "date": "2025-02-05T06:00:00.000Z",
+    "amount": 1250,
+    "memo": "Salary Deposit",
+    "type": "CREDIT",
+    "category": "deposits",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "20250212345",
+    "date": "2025-02-12T06:00:00.000Z",
+    "amount": -28.5,
+    "memo": "Gas - Fill Up at City Fuel",
+    "type": "DEBIT",
+    "category": "gas",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "20250320678",
+    "date": "2025-03-20T05:00:00.000Z",
+    "amount": -19.99,
+    "memo": "Online Purchase - Bookshop Haven",
+    "type": "DEBIT",
+    "category": "shopping",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "20250325987",
+    "date": "2025-03-25T05:00:00.000Z",
+    "amount": -72.05,
+    "memo": "Utility Bill - City Utilities",
+    "type": "DEBIT",
+    "category": "utilities",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "20250101111",
+    "date": "2025-01-01T08:00:00.000Z",
+    "amount": -15.99,
+    "memo": "Coffee - Daily Grind Cafe",
+    "type": "DEBIT",
+    "category": "dining",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "20250102112",
+    "date": "2025-01-02T09:00:00.000Z",
+    "amount": -42.75,
+    "memo": "Supermarket - FreshMart",
+    "type": "DEBIT",
+    "category": "groceries",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "20250103113",
+    "date": "2025-01-03T10:00:00.000Z",
+    "amount": 2000,
+    "memo": "Freelance Payment - UpWork",
+    "type": "CREDIT",
+    "category": "deposits",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "20250104114",
+    "date": "2025-01-04T11:00:00.000Z",
+    "amount": -120.5,
+    "memo": "Car Service - AutoFix Center",
+    "type": "DEBIT",
+    "category": "auto",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "20250105115",
+    "date": "2025-01-05T12:00:00.000Z",
+    "amount": -89.99,
+    "memo": "Online Shopping - Amazon",
+    "type": "DEBIT",
+    "category": "shopping",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "20250106116",
+    "date": "2025-01-06T13:00:00.000Z",
+    "amount": -55.25,
+    "memo": "Dinner - La Trattoria",
+    "type": "DEBIT",
+    "category": "dining",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "20250107117",
+    "date": "2025-01-07T14:00:00.000Z",
+    "amount": 1500,
+    "memo": "Salary Deposit - ABC Corp",
+    "type": "CREDIT",
+    "category": "deposits",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "20250108118",
+    "date": "2025-01-08T15:00:00.000Z",
+    "amount": -30,
+    "memo": "Movie Night - Cineplex",
+    "type": "DEBIT",
+    "category": "entertainment",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "20250109119",
+    "date": "2025-01-09T16:00:00.000Z",
+    "amount": -200.75,
+    "memo": "Health Insurance - BlueShield",
+    "type": "DEBIT",
+    "category": "healthcare",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "20250110120",
+    "date": "2025-01-10T17:00:00.000Z",
+    "amount": -45.5,
+    "memo": "Gym Membership - FitPro Gym",
+    "type": "DEBIT",
+    "category": "fitness",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "20250501101",
+    "date": "2025-05-01T10:00:00.000Z",
+    "amount": -23.99,
+    "memo": "Lunch - Green Eats Bistro",
+    "type": "DEBIT",
+    "category": "dining",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "20250502102",
+    "date": "2025-05-02T11:00:00.000Z",
+    "amount": -64.5,
+    "memo": "Home Supplies - Home Depot",
+    "type": "DEBIT",
+    "category": "home",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "20250503103",
+    "date": "2025-05-03T12:00:00.000Z",
+    "amount": 300,
+    "memo": "Bonus - XYZ Corp",
+    "type": "CREDIT",
+    "category": "deposits",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "20250504104",
+    "date": "2025-05-04T13:00:00.000Z",
+    "amount": -150.75,
+    "memo": "Electronics - Best Buy",
+    "type": "DEBIT",
+    "category": "shopping",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "20250505105",
+    "date": "2025-05-05T14:00:00.000Z",
+    "amount": -20,
+    "memo": "Streaming Subscription - Netflix",
+    "type": "DEBIT",
+    "category": "entertainment",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "20250506106",
+    "date": "2025-05-06T15:00:00.000Z",
+    "amount": -95.3,
+    "memo": "Grocery - Whole Foods",
+    "type": "DEBIT",
+    "category": "groceries",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "20250507107",
+    "date": "2025-05-07T16:00:00.000Z",
+    "amount": -30,
+    "memo": "Ride Share - Uber",
+    "type": "DEBIT",
+    "category": "misc",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "20250508108",
+    "date": "2025-05-08T17:00:00.000Z",
+    "amount": -12.99,
+    "memo": "E-Book - Kindle Store",
+    "type": "DEBIT",
+    "category": "shopping",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "20250509109",
+    "date": "2025-05-09T18:00:00.000Z",
+    "amount": -75,
+    "memo": "Concert Ticket - Live Nation",
+    "type": "DEBIT",
+    "category": "entertainment",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "20250510110",
+    "date": "2025-05-10T19:00:00.000Z",
+    "amount": -40,
+    "memo": "Fitness Class - Yoga Studio",
+    "type": "DEBIT",
+    "category": "fitness",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "20250211101",
+    "date": "2025-02-11T08:30:00.000Z",
+    "amount": -29.99,
+    "memo": "Breakfast - Sunny Side Cafe",
+    "type": "DEBIT",
+    "category": "dining",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "20250212102",
+    "date": "2025-02-12T09:45:00.000Z",
+    "amount": -150,
+    "memo": "Hotel Booking - City Inn",
+    "type": "DEBIT",
+    "category": "travel",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "20250213103",
+    "date": "2025-02-13T10:15:00.000Z",
+    "amount": 500,
+    "memo": "Freelance Work - Client ABC",
+    "type": "CREDIT",
+    "category": "deposits",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "20250214104",
+    "date": "2025-02-14T11:00:00.000Z",
+    "amount": -60.5,
+    "memo": "Valentine's Dinner - Rosewood Grill",
+    "type": "DEBIT",
+    "category": "dining",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "20250215105",
+    "date": "2025-02-15T12:10:00.000Z",
+    "amount": -95,
+    "memo": "Ski Rental - Alpine Sports",
+    "type": "DEBIT",
+    "category": "recreation",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "20250216106",
+    "date": "2025-02-16T13:20:00.000Z",
+    "amount": -200,
+    "memo": "Electronics - TechStore",
+    "type": "DEBIT",
+    "category": "electronics",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "20250217107",
+    "date": "2025-02-17T14:30:00.000Z",
+    "amount": -35,
+    "memo": "Museum Tickets - City Museum",
+    "type": "DEBIT",
+    "category": "entertainment",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "20250218108",
+    "date": "2025-02-18T15:45:00.000Z",
+    "amount": -120.75,
+    "memo": "Car Repairs - AutoFix",
+    "type": "DEBIT",
+    "category": "auto",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "20250219109",
+    "date": "2025-02-19T16:50:00.000Z",
+    "amount": -55.25,
+    "memo": "Grocery Shopping - Market Fresh",
+    "type": "DEBIT",
+    "category": "groceries",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "20250220110",
+    "date": "2025-02-20T17:30:00.000Z",
+    "amount": -18.99,
+    "memo": "Bookstore - Barnes & Noble",
+    "type": "DEBIT",
+    "category": "shopping",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "20250301111",
+    "date": "2025-03-01T08:00:00.000Z",
+    "amount": -22.5,
+    "memo": "Brunch - Sunrise Diner",
+    "type": "DEBIT",
+    "category": "dining",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "20250302112",
+    "date": "2025-03-02T09:30:00.000Z",
+    "amount": -75,
+    "memo": "Monthly Internet Bill - NetSpeed",
+    "type": "DEBIT",
+    "category": "utilities",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "20250303113",
+    "date": "2025-03-03T10:45:00.000Z",
+    "amount": 1000,
+    "memo": "Freelance Payment - Client XYZ",
+    "type": "CREDIT",
+    "category": "deposits",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "20250304114",
+    "date": "2025-03-04T11:20:00.000Z",
+    "amount": -49.99,
+    "memo": "Streaming Services - Hulu & Disney+",
+    "type": "DEBIT",
+    "category": "entertainment",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "20250305115",
+    "date": "2025-03-05T12:15:00.000Z",
+    "amount": -132.25,
+    "memo": "Car Maintenance - QuickFix Auto",
+    "type": "DEBIT",
+    "category": "auto",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "20250306116",
+    "date": "2025-03-06T13:40:00.000Z",
+    "amount": -89.99,
+    "memo": "Clothing Purchase - Fashion Haven",
+    "type": "DEBIT",
+    "category": "shopping",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "20250307117",
+    "date": "2025-03-07T14:50:00.000Z",
+    "amount": -25,
+    "memo": "Ride Share - Lyft",
+    "type": "DEBIT",
+    "category": "transportation",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "20250308118",
+    "date": "2025-03-08T15:10:00.000Z",
+    "amount": -60.75,
+    "memo": "Dinner - Ocean View Restaurant",
+    "type": "DEBIT",
+    "category": "dining",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "20250309119",
+    "date": "2025-03-09T16:30:00.000Z",
+    "amount": -98.5,
+    "memo": "Electronics - GameStop",
+    "type": "DEBIT",
+    "category": "electronics",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "20250310120",
+    "date": "2025-03-10T17:45:00.000Z",
+    "amount": -150,
+    "memo": "Gym Membership Renewal - FitLife Gym",
+    "type": "DEBIT",
+    "category": "fitness",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "20250401121",
+    "date": "2025-04-01T08:15:00.000Z",
+    "amount": -30.25,
+    "memo": "Breakfast - Sunrise Cafe",
+    "type": "DEBIT",
+    "category": "dining",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "20250402122",
+    "date": "2025-04-02T09:40:00.000Z",
+    "amount": -85,
+    "memo": "Grocery - Fresh Market",
+    "type": "DEBIT",
+    "category": "groceries",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "20250403123",
+    "date": "2025-04-03T10:30:00.000Z",
+    "amount": 1500,
+    "memo": "Salary Deposit - XYZ Corp",
+    "type": "CREDIT",
+    "category": "deposits",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "20250404124",
+    "date": "2025-04-04T11:50:00.000Z",
+    "amount": -45.99,
+    "memo": "Gas Station - Shell",
+    "type": "DEBIT",
+    "category": "gas",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "20250405125",
+    "date": "2025-04-05T12:20:00.000Z",
+    "amount": -220.75,
+    "memo": "Electronics Purchase - Best Buy",
+    "type": "DEBIT",
+    "category": "electronics",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "20250406126",
+    "date": "2025-04-06T13:10:00.000Z",
+    "amount": -33,
+    "memo": "Movie Night - AMC Theaters",
+    "type": "DEBIT",
+    "category": "entertainment",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "20250407127",
+    "date": "2025-04-07T14:25:00.000Z",
+    "amount": -70,
+    "memo": "Dinner - Italian Bistro",
+    "type": "DEBIT",
+    "category": "dining",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "20250408128",
+    "date": "2025-04-08T15:55:00.000Z",
+    "amount": -110.3,
+    "memo": "Clothing - Fashion Outlet",
+    "type": "DEBIT",
+    "category": "shopping",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "20250409129",
+    "date": "2025-04-09T16:15:00.000Z",
+    "amount": -25,
+    "memo": "Ride Share - Uber",
+    "type": "DEBIT",
+    "category": "transportation",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "20250410130",
+    "date": "2025-04-10T17:35:00.000Z",
+    "amount": -180,
+    "memo": "Gym Membership - FitPro Gym",
+    "type": "DEBIT",
+    "category": "fitness",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "20250101131",
+    "date": "2025-01-01T07:30:00.000Z",
+    "amount": -50,
+    "memo": "New Year Breakfast - Sunrise Cafe",
+    "type": "DEBIT",
+    "category": "dining",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "20250102132",
+    "date": "2025-01-02T08:45:00.000Z",
+    "amount": -120,
+    "memo": "Grocery Shopping - Whole Foods",
+    "type": "DEBIT",
+    "category": "groceries",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "20250103133",
+    "date": "2025-01-03T09:20:00.000Z",
+    "amount": -200,
+    "memo": "Electronics - Best Buy",
+    "type": "DEBIT",
+    "category": "electronics",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "20250104134",
+    "date": "2025-01-04T10:00:00.000Z",
+    "amount": -15.99,
+    "memo": "Coffee - Starbucks",
+    "type": "DEBIT",
+    "category": "dining",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "20250105135",
+    "date": "2025-01-05T11:10:00.000Z",
+    "amount": 1500,
+    "memo": "Salary Deposit - ABC Corp",
+    "type": "CREDIT",
+    "category": "deposits",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "20250106136",
+    "date": "2025-01-06T12:25:00.000Z",
+    "amount": -75.5,
+    "memo": "Gas - Shell Station",
+    "type": "DEBIT",
+    "category": "gas",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "20250107137",
+    "date": "2025-01-07T13:35:00.000Z",
+    "amount": -98.25,
+    "memo": "Dinner - Italian Bistro",
+    "type": "DEBIT",
+    "category": "dining",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "20250108138",
+    "date": "2025-01-08T14:40:00.000Z",
+    "amount": -220,
+    "memo": "Furniture - Home Depot",
+    "type": "DEBIT",
+    "category": "home",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "20250109139",
+    "date": "2025-01-09T15:55:00.000Z",
+    "amount": -65,
+    "memo": "Gym Membership - FitLife Gym",
+    "type": "DEBIT",
+    "category": "fitness",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "20250110140",
+    "date": "2025-01-10T16:45:00.000Z",
+    "amount": -40.99,
+    "memo": "Streaming Services - Netflix & Spotify",
+    "type": "DEBIT",
+    "category": "entertainment",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "20250111141",
+    "date": "2025-01-11T07:00:00.000Z",
+    "amount": -35.75,
+    "memo": "Lunch - Green Bowl Salad",
+    "type": "DEBIT",
+    "category": "dining",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "20250112142",
+    "date": "2025-01-12T08:30:00.000Z",
+    "amount": -95,
+    "memo": "Grocery Shopping - Trader Joe's",
+    "type": "DEBIT",
+    "category": "groceries",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "20250113143",
+    "date": "2025-01-13T09:15:00.000Z",
+    "amount": -180,
+    "memo": "Electronics - Tech World",
+    "type": "DEBIT",
+    "category": "electronics",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "20250114144",
+    "date": "2025-01-14T10:40:00.000Z",
+    "amount": -20.5,
+    "memo": "Coffee - Local Roasters",
+    "type": "DEBIT",
+    "category": "dining",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "20250115145",
+    "date": "2025-01-15T11:55:00.000Z",
+    "amount": 2000,
+    "memo": "Bonus Deposit - XYZ Corp",
+    "type": "CREDIT",
+    "category": "deposits",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "20250116146",
+    "date": "2025-01-16T12:20:00.000Z",
+    "amount": -65.75,
+    "memo": "Gas - Chevron Station",
+    "type": "DEBIT",
+    "category": "gas",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "20250117147",
+    "date": "2025-01-17T13:10:00.000Z",
+    "amount": -115.5,
+    "memo": "Dinner - Steakhouse 55",
+    "type": "DEBIT",
+    "category": "dining",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "20250118148",
+    "date": "2025-01-18T14:25:00.000Z",
+    "amount": -245,
+    "memo": "Home Improvement - Lowe's",
+    "type": "DEBIT",
+    "category": "home",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "20250119149",
+    "date": "2025-01-19T15:40:00.000Z",
+    "amount": -50,
+    "memo": "Monthly Subscription - Amazon Prime",
+    "type": "DEBIT",
+    "category": "entertainment",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "20250120150",
+    "date": "2025-01-20T16:55:00.000Z",
+    "amount": -30,
+    "memo": "Ride Share - Uber",
+    "type": "DEBIT",
+    "category": "transportation",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "20250201234",
+    "date": "2025-02-01T08:00:00.000Z",
+    "amount": -45.6,
+    "memo": "Fitness Membership - Flex Gym",
+    "type": "DEBIT",
+    "category": "fitness",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "20250204567",
+    "date": "2025-02-02T09:00:00.000Z",
+    "amount": -12.99,
+    "memo": "Coffee - Bean Street Café",
+    "type": "DEBIT",
+    "category": "dining",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "20250207890",
+    "date": "2025-02-03T10:30:00.000Z",
+    "amount": -29.95,
+    "memo": "Movie Tickets - Cinemax Theater",
+    "type": "DEBIT",
+    "category": "shopping",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "20250211234",
+    "date": "2025-02-04T11:00:00.000Z",
+    "amount": -53.75,
+    "memo": "Dining - Oceanview Bistro",
+    "type": "DEBIT",
+    "category": "dining",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "20250214567",
+    "date": "2025-02-05T12:00:00.000Z",
+    "amount": -19.49,
+    "memo": "Books - Read & Relax Bookstore",
+    "type": "DEBIT",
+    "category": "shopping",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "20250217890",
+    "date": "2025-02-06T13:00:00.000Z",
+    "amount": -22.5,
+    "memo": "Pet Supplies - PetWorld Store",
+    "type": "DEBIT",
+    "category": "pets",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "20250221234",
+    "date": "2025-02-08T14:00:00.000Z",
+    "amount": 980,
+    "memo": "Freelance Payment - Web Design Project",
+    "type": "CREDIT",
+    "category": "transfers",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "20250224567",
+    "date": "2025-02-10T15:00:00.000Z",
+    "amount": -80,
+    "memo": "Furniture - Home Comforts",
+    "type": "DEBIT",
+    "category": "home",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "20250227890",
+    "date": "2025-02-11T16:30:00.000Z",
+    "amount": -65.3,
+    "memo": "Gas - Fuel Stop Express",
+    "type": "DEBIT",
+    "category": "gas",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "20250231234",
+    "date": "2025-02-12T17:00:00.000Z",
+    "amount": -150,
+    "memo": "Luxury Hotel - Grand Plaza Stay",
+    "type": "DEBIT",
+    "category": "dining",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "920250201234",
+    "date": "2025-03-01T08:00:00.000Z",
+    "amount": -45.6,
+    "memo": "Fitness Membership - Flex Gym",
+    "type": "DEBIT",
+    "category": "fitness",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "920250204567",
+    "date": "2025-03-02T09:00:00.000Z",
+    "amount": -12.99,
+    "memo": "Coffee - Bean Street Café",
+    "type": "DEBIT",
+    "category": "dining",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "920250207890",
+    "date": "2025-03-03T10:30:00.000Z",
+    "amount": -29.95,
+    "memo": "Movie Tickets - Cinemax Theater",
+    "type": "DEBIT",
+    "category": "shopping",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "920250211234",
+    "date": "2025-03-04T11:00:00.000Z",
+    "amount": -53.75,
+    "memo": "Dining - Oceanview Bistro",
+    "type": "DEBIT",
+    "category": "dining",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "920250214567",
+    "date": "2025-03-05T12:00:00.000Z",
+    "amount": -19.49,
+    "memo": "Books - Read & Relax Bookstore",
+    "type": "DEBIT",
+    "category": "shopping",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "920250217890",
+    "date": "2025-03-06T13:00:00.000Z",
+    "amount": -22.5,
+    "memo": "Pet Supplies - PetWorld Store",
+    "type": "DEBIT",
+    "category": "pets",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "920250221234",
+    "date": "2025-03-08T14:00:00.000Z",
+    "amount": 980,
+    "memo": "Freelance Payment - Web Design Project",
+    "type": "CREDIT",
+    "category": "transfers",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "920250224567",
+    "date": "2025-03-10T15:00:00.000Z",
+    "amount": -80,
+    "memo": "Furniture - Home Comforts",
+    "type": "DEBIT",
+    "category": "home",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "920250227890",
+    "date": "2025-03-11T16:30:00.000Z",
+    "amount": -65.3,
+    "memo": "Gas - Fuel Stop Express",
+    "type": "DEBIT",
+    "category": "gas",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "920250231234",
+    "date": "2025-03-12T17:00:00.000Z",
+    "amount": -150,
+    "memo": "Luxury Hotel - Grand Plaza Stay",
+    "type": "DEBIT",
+    "category": "dining",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "920250231235",
+    "date": "2025-03-15T17:00:00.000Z",
+    "amount": -200,
+    "memo": "Lowe's OKC Purchase",
+    "type": "DEBIT",
+    "category": "home",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "920250231277",
+    "date": "2025-03-21T17:00:00.000Z",
+    "amount": -56,
+    "memo": "Lowe's OKC Purchase",
+    "type": "DEBIT",
+    "category": "home",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "4320250331788",
+    "date": "2025-04-03T05:00:00.000Z",
+    "amount": -34.12,
+    "memo": "Burger Town Burgers TRANSACTION",
+    "type": "DEBIT",
+    "category": "dining",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "4420250306668",
+    "date": "2025-04-04T05:00:00.000Z",
+    "amount": -16.13,
+    "memo": "Amazon Purchase 1123",
+    "type": "DEBIT",
+    "category": "shopping",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "4520250306667",
+    "date": "2025-04-05T05:00:00.000Z",
+    "amount": -12,
+    "memo": "DigiKey Supply Order 44532",
+    "type": "DEBIT",
+    "category": "home",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "413202503388",
+    "date": "2025-04-04T05:00:00.000Z",
+    "amount": -11.12,
+    "memo": "Radio Shack",
+    "type": "DEBIT",
+    "category": "shopping",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "442453242668",
+    "date": "2025-04-05T05:00:00.000Z",
+    "amount": -8.13,
+    "memo": "Amazon Purchase 4567",
+    "type": "DEBIT",
+    "category": "shopping",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "452025324326667",
+    "date": "2025-04-06T05:00:00.000Z",
+    "amount": -14.33,
+    "memo": "Home Depot PURCHASE",
+    "type": "DEBIT",
+    "category": "home",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "11223344332211",
+    "date": "2025-04-04T05:00:00.000Z",
+    "amount": -11.99,
+    "memo": "Radio Shack",
+    "type": "DEBIT",
+    "category": "shopping",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "4432432234243",
+    "date": "2025-04-05T05:00:00.000Z",
+    "amount": -8.99,
+    "memo": "Amazon Purchase 4567",
+    "type": "DEBIT",
+    "category": "shopping",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "543543543534",
+    "date": "2025-04-06T05:00:00.000Z",
+    "amount": -14.99,
+    "memo": "Home Depot PURCHASE",
+    "type": "DEBIT",
+    "category": "home",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "1459786541235",
+    "date": "2025-04-06T05:00:00.000Z",
+    "amount": -15.99,
+    "memo": "Burger King",
+    "type": "DEBIT",
+    "category": "dining",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "6698784523654",
+    "date": "2025-04-07T05:00:00.000Z",
+    "amount": -5.99,
+    "memo": "Academy Store",
+    "type": "DEBIT",
+    "category": "shopping",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "6697787112245",
+    "date": "2025-04-08T05:00:00.000Z",
+    "amount": -4.99,
+    "memo": "Amazon Purchase",
+    "type": "DEBIT",
+    "category": "shopping",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "1568975654321",
+    "date": "2025-04-08T05:00:00.000Z",
+    "amount": -5.24,
+    "memo": "McDonalds",
+    "type": "DEBIT",
+    "category": "dining",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "654898712354",
+    "date": "2025-04-09T05:00:00.000Z",
+    "amount": -4.99,
+    "memo": "Ledo's Pizza",
+    "type": "DEBIT",
+    "category": "dining",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "659988754216",
+    "date": "2025-04-10T05:00:00.000Z",
+    "amount": -8.48,
+    "memo": "Ace Hardware",
+    "type": "DEBIT",
+    "category": "home",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "12354658974",
+    "date": "2025-04-08T05:00:00.000Z",
+    "amount": -11.25,
+    "memo": "Burger Palace",
+    "type": "DEBIT",
+    "category": "dining",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "55444568789",
+    "date": "2025-04-11T05:00:00.000Z",
+    "amount": -16.25,
+    "memo": "Coffee Shop 123",
+    "type": "DEBIT",
+    "category": "dining",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "3321123214569",
+    "date": "2025-04-21T05:00:00.000Z",
+    "amount": -3.99,
+    "memo": "Cat Toys and Co",
+    "type": "DEBIT",
+    "category": "pets",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "77898789456621",
+    "date": "2025-04-14T05:00:00.000Z",
+    "amount": -28.48,
+    "memo": "Marcum's Nursery",
+    "type": "DEBIT",
+    "category": "home",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "44566658789",
+    "date": "2025-04-09T05:00:00.000Z",
+    "amount": -23.11,
+    "memo": "Lowe's OKC Purchase",
+    "type": "DEBIT",
+    "category": "home",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "21354698754456",
+    "date": "2025-04-04T05:00:00.000Z",
+    "amount": -21.11,
+    "memo": "Italian Eats CAFE",
+    "type": "DEBIT",
+    "category": "dining",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "78987925487654",
+    "date": "2025-04-05T05:00:00.000Z",
+    "amount": -13.99,
+    "memo": "Petco PURCHASE",
+    "type": "DEBIT",
+    "category": "pets",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "32126545928827",
+    "date": "2025-04-06T05:00:00.000Z",
+    "amount": -21.48,
+    "memo": "Plants n Mulch",
+    "type": "DEBIT",
+    "category": "shopping",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "6699885521267",
+    "date": "2025-05-11T05:00:00.000Z",
+    "amount": -11.11,
+    "memo": "McBurger Co",
+    "type": "DEBIT",
+    "category": "dining",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "4456658778892",
+    "date": "2025-05-12T05:00:00.000Z",
+    "amount": -12.99,
+    "memo": "Pets R Us",
+    "type": "DEBIT",
+    "category": "pets",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "22366544478998",
+    "date": "2025-05-12T05:00:00.000Z",
+    "amount": -4.48,
+    "memo": "Walmart 83892",
+    "type": "DEBIT",
+    "category": "shopping",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "665747847812315",
+    "date": "2025-05-13T05:00:00.000Z",
+    "amount": -8.11,
+    "memo": "McBurger Co",
+    "type": "DEBIT",
+    "category": "dining",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "456546898798712",
+    "date": "2025-05-14T05:00:00.000Z",
+    "amount": -4.99,
+    "memo": "Pets R Us",
+    "type": "DEBIT",
+    "category": "pets",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "332211545598789",
+    "date": "2025-05-14T05:00:00.000Z",
+    "amount": -6.48,
+    "memo": "Walmart 45681",
+    "type": "DEBIT",
+    "category": "shopping",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "456547897889741",
+    "date": "2025-05-13T05:00:00.000Z",
+    "amount": -2.11,
+    "memo": "McBurger Co 212",
+    "type": "DEBIT",
+    "category": "dining",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "213216545489275",
+    "date": "2025-05-14T05:00:00.000Z",
+    "amount": -8.99,
+    "memo": "Petco",
+    "type": "DEBIT",
+    "category": "pets",
+    "bankOrg": "CAPONE"
+  },
+  {
+    "id": "212132123654654",
+    "date": "2025-05-14T05:00:00.000Z",
+    "amount": -9.48,
+    "memo": "Walmart 112233",
+    "type": "DEBIT",
+    "category": "shopping",
+    "bankOrg": "CAPONE"
+  }
+]

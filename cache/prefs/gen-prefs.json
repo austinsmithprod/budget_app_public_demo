@@ -1,0 +1,42 @@
+{
+    "possibleCategories": [
+        "groceries",
+        "dining",
+        "gas",
+        "rent",
+        "shopping",
+        "pets",
+        "utilities",
+        "home",
+        "transfers",
+        "medical",
+        "loans",
+        "interest",
+        "deposits",
+        "fitness",
+        "entertainment",
+        "misc"
+    ],
+    "categoryBudgets": {
+        "groceries": 1000,
+        "dining": 400,
+        "gas": 75,
+        "rent": 1500,
+        "shopping": 300,
+        "pets": 200,
+        "utilities": 400,
+        "home": 100,
+        "transfers": 0,
+        "medical": 0,
+        "loans": 0,
+        "interest": 0,
+        "deposits": 0,
+        "fitness": 200
+    },
+    "autoCategoryList": [
+        {
+            "memo": "Debit Card Purchase - WAL-MART SUPER CENTER NORMAN, OK US",
+            "category": "groceries"
+        }
+    ]
+}
